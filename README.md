@@ -17,10 +17,10 @@ Related materials are as follows.
 > # Research and Development Goals
 ![sdi_intro](https://github.com/user-attachments/assets/a3087956-e8c8-413f-8df7-393fb3956c8d)
 
-> # Challenge
-1. Deliver effective, large-scale mobility services by segmenting AI applications through SDI platforms
-2. Performs an independent IaC process to respond to collaborative scenarios for real-time and dynamically changing devices
-3. SDI platform distributes and executes device-infrastructure code that is the result of the IaC process in conjunction with device-edge-cloud
+> # Challenges
+1. SDI may deliver effective, large-scale mobility services by segmenting AI applications through SDI platforms
+2. SDI may perform an independent IaC process to respond to collaborative scenarios for real-time and dynamically changing devices
+3. SDI may distribute and execute device-infrastructure code that is the result of the IaC process in conjunction with device-edge-cloud
    
 ![20240722_140526](https://github.com/user-attachments/assets/b5982a14-b0f9-4d21-add1-cc591210718f)
 

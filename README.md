@@ -14,9 +14,3 @@ From 2024 to 2027, **OpenSW-SDI community will conduct research and development 
 We hope that this technology will facilitate distributed intelligent services among various future mobility devices, aiding the advancement towards a future mobility society.
 
 Related materials are as follows.
-
-# event presentation materials
-> You can find presentation files.
-
-- [(24.06.12~13) Kick-off Workshop](https://github.com/OpenSW-SDI/Documents/tree/main/(24.06.12~13)%20Kick-off%20Workshop)
-<br>
